@@ -1,6 +1,6 @@
 {
   "name": "egg-checkurl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checkurl for egg",
   "eggPlugin": {
     "name": "checkurl"
@@ -37,7 +37,7 @@
   },
   "files": [
     "app.js",
-    "agent.js",
+    "app",
     "config"
   ],
   "ci": {
